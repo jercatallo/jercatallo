@@ -10,7 +10,7 @@ I'm currently working at an Australian Company that gives companies the tools th
 - 📈 Work experience: 3 years of full-time as a software engineer. 
 - 🎯 Specialization: I consider myself as a dedicated and passionate front-end engineer at heart. 
 - 💻 Right now, I'm doing bootcamps organized and planned by myself to upskill as an engineer.
-- 🌱 I’m currently doing the Meta Front-End Developer Professional Certificate Course.
+- 🌱 I’m currently doing the IBM Applied DevOps Engineering Professional Course.
 - ⚡ Fun fact: I've become a working professional when I was 20 years old and 1st year college way back in 2020.
 - 🎓 I graduated with Bachelor of Science in Computer Science degree. I can say that I'm one of top achiever at my college department throughout my 4 years as a student by winning awards in sports (chess), champion in programming competitions while maintaining high academic grades.
 - 🤝 I'm here to connect, make friends, and collaborate on exciting projects. Whether you need a hackathon teammate, a programming buddy, or a gaming pal, feel free to reach out. Let's achieve greatness together! 🚀
