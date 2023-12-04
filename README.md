@@ -18,7 +18,7 @@ I'm currently working at an Australian Company that gives companies the tools th
 - 😄 If you are looking for a hackathon member, programming buddy or a gaming pal I will be pleased to join, just contact me!
 - 🌐 Languages: English, Filipino and Kapampangan.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talyho&theme=dark&hide_border=false&include_all_commits=true&layout=compact&hide=css,jupyter%20notebook,scss,html,java)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jercatallo&theme=dark&hide_border=false&include_all_commits=true&layout=compact&hide=css,jupyter%20notebook,scss,html,java)
 
 #### Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jercarlocatallo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12350559) 
