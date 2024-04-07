@@ -11,9 +11,10 @@ I'm currently working at an Australian Company that gives companies the tools th
 - 📈 Work experience: 4 years of full-time as a software engineer. 
 - 🎯 Specialization: I consider myself as a dedicated and passionate front-end engineer at heart. 
 - 💻 Right now, I'm doing personal projects, and exploring new technologies to upskill as an engineer.
+- 🚀 I'm actively contributing to open source projects, fueling my passion for building and sharing knowledge within the developer community.
 - ⚡ Fun fact: I've become a working professional when I was 20 years old and 1st year college way back in 2020.
 - 🎓 I graduated with Bachelor of Science in Computer Science degree. I can say that I'm one of top achiever at my college department throughout my 4 years as a student by winning awards in sports (chess), champion in programming competitions while maintaining high academic grades.
-- 🤝 I'm here to connect, make friends, and collaborate on exciting projects. Whether you need a hackathon teammate, a programming buddy, or a gaming pal, feel free to reach out. Let's achieve greatness together! 🚀
+- 🤝 I'm here to connect, make friends, and collaborate on exciting projects. Whether you need a hackathon teammate, a programming buddy, or a gaming pal, feel free to reach out. Let's achieve greatness together! 
 - 💬 Ask me about: Astronomy, Anime, Chess, Fitness, Gaming and Programming.
 - 😄 If you are looking for a hackathon member, programming buddy or a gaming pal I will be pleased to join, just contact me!
 - 🌐 Languages: English, Filipino and Kapampangan.
